@@ -88,7 +88,6 @@
       };
   
       return {
-        timer,
         quizStarted,
         questions,
         currentQuestion,
