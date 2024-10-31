@@ -58,7 +58,7 @@ export default defineComponent({
 
 <style>
 .app-container {
-  width: 100vi;
+  width: 100vh;
   margin: 0 auto;
 }
 </style>
