@@ -19,6 +19,7 @@ describe('QuizApp.vue', () => {
     setActivePinia(createPinia());
     quizStore = useQuizStore();
 
+    // Mock de fetch pour retourner les questions simulées
     global.fetch = vi.fn(() =>
       Promise.resolve({
         json: () => Promise.resolve(mockQuestions),
@@ -31,9 +32,11 @@ describe('QuizApp.vue', () => {
       props: { view: 'quiz' }
     });
 
+    // Charge les questions et démarre le quiz
     await quizStore.loadQuestions();
     await quizStore.startQuiz();
 
+    // Vérifie que le score initial est de zéro
     expect(quizStore.score).toBe(0);
   });
 
