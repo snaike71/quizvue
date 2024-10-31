@@ -45,7 +45,7 @@ export default defineComponent({
     const startQuiz = async () => {
       await quizStore.loadQuestions();
       quizStore.startQuiz();
-      emit('quiz-start');
+      emit('quiz-start');  // Émet un événement pour basculer sur l'affichage du quiz
     };
 
     const handleAnswer = (selectedAnswer: string | null) => {

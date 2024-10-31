@@ -19,6 +19,7 @@ export default defineComponent({
       type: Object as PropType<{ text: string; options: string[]; answer: string }>,
       required: true
     },
+    timer: Number
   },
   emits: ['answer'],
   setup(props, { emit }) {

@@ -1,0 +1,18 @@
+[
+    { "text": "Quelle est la capitale de l'Espagne ?", "options": ["Madrid", "Lisbonne", "Paris", "Rome"], "answer": "Madrid" },
+    { "text": "Quel est le plus long fleuve du monde ?", "options": ["Nil", "Amazone", "Yangtsé", "Mississippi"], "answer": "Amazone" },
+    { "text": "Qui a peint le plafond de la chapelle Sixtine ?", "options": ["Michel-Ange", "Raphaël", "Leonardo da Vinci", "Rembrandt"], "answer": "Michel-Ange" },
+    { "text": "Quel est le pays le plus peuplé du monde ?", "options": ["Chine", "Inde", "États-Unis", "Indonésie"], "answer": "Chine" },
+    { "text": "Quel est le symbole chimique du fer ?", "options": ["Fe", "F", "Fr", "Fi"], "answer": "Fe" },
+    { "text": "Quelle planète est la plus proche du Soleil ?", "options": ["Mercure", "Vénus", "Terre", "Mars"], "answer": "Mercure" },
+    { "text": "Qui est l'auteur de 'Roméo et Juliette' ?", "options": ["Shakespeare", "Molière", "Victor Hugo", "Hemingway"], "answer": "Shakespeare" },
+    { "text": "Combien de couleurs y a-t-il dans un arc-en-ciel ?", "options": ["7", "5", "6", "8"], "answer": "7" },
+    { "text": "Quel est l'élément chimique le plus léger ?", "options": ["Hydrogène", "Oxygène", "Hélium", "Carbone"], "answer": "Hydrogène" },
+    { "text": "Quel pays est connu pour la pizza et les pâtes ?", "options": ["Italie", "France", "Espagne", "Grèce"], "answer": "Italie" },
+    { "text": "Quelle est la capitale de l'Australie ?", "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"], "answer": "Canberra" },
+    { "text": "Dans quel pays se trouve la tour Eiffel ?", "options": ["France", "Italie", "Espagne", "Allemagne"], "answer": "France" },
+    { "text": "Quelle est la langue la plus parlée dans le monde ?", "options": ["Anglais", "Espagnol", "Mandarin", "Français"], "answer": "Mandarin" },
+    { "text": "Quel métal est utilisé principalement pour les câbles électriques ?", "options": ["Cuivre", "Aluminium", "Or", "Argent"], "answer": "Cuivre" },
+    { "text": "Quel est l'animal terrestre le plus rapide ?", "options": ["Guépard", "Lion", "Tigre", "Gazelle"], "answer": "Guépard" }
+  ]
+  

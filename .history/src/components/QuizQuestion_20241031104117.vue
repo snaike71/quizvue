@@ -6,6 +6,7 @@
         {{ option }}
       </button>
     </div>
+    <p class="mt-4 text-gray-700">Temps restant : <span class="font-semibold">{{ timer }}</span>s</p>
   </div>
 </template>
 
@@ -19,6 +20,7 @@ export default defineComponent({
       type: Object as PropType<{ text: string; options: string[]; answer: string }>,
       required: true
     },
+    timer: Number
   },
   emits: ['answer'],
   setup(props, { emit }) {

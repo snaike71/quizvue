@@ -1,0 +1,7 @@
+[
+    { "text": "Quelle est la capitale de la France ?", "options": ["Paris", "Londres", "Berlin", "Madrid"], "answer": "Paris" },
+    { "text": "Quel est le plus grand océan ?", "options": ["Atlantique", "Pacifique", "Arctique", "Indien"], "answer": "Pacifique" },
+    { "text": "Quel est le plus grand océan ?", "options": ["Atlantique", "Pacifique", "Arctique", "Indien"], "answer": "Pacifique" }
+
+  ]
+  
